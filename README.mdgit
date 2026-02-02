@@ -1,0 +1,1 @@
+"# Learning-Management-System"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/HarikaMadupu/Learning-Management-System.gitgit push -u origin main
